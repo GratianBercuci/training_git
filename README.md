@@ -1,2 +1,2 @@
 # training_git
-cause some trouble
+removed all them text
