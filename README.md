@@ -3,4 +3,4 @@ git training repository
 
 more training text added
 
-hello sir text
+changed text
